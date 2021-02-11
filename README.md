@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an web application for users of Kitty News. Visitors can only see a list of articles. Once they register and pay a subscription fee, they can get full access to all articles. The application provides users with functionalities below.
+This is a web application for users of Kitty News. Visitors can only see a list of articles. Once they register and pay a subscription fee, they can get full access to all articles. The application provides users with functionalities below.
 
 - User registration
 - User authentication(Log-in/Log-off)
